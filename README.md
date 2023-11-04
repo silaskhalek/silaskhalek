@@ -5,14 +5,4 @@
   
 </div>
     <a href=https://github.com/silaskhalek">
-     <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: dracula)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false" />
-</picture>
+    <img height="180cm" src=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=false&hide=contribs,prs&cache_seconds=86400&theme=dracula">/
