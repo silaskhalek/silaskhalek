@@ -1,7 +1,7 @@
 ## 🤘 Hi there! I’m @silaskhalek but my nickname is Turco! 🤘
 
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Python, SQL, PowerBI and other things!
+- 🌱 I’m currently learning Python, MySQL, PowerBI and other things!
 - ⚡ I’m also studying Big Data and Analytical Intelligence thru FMU University Center!
 - 📫 How to reach me khalek.silas@gmail.com
 
