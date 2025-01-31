@@ -29,9 +29,7 @@
 </div>
 
             
-          
-
-
+![Snake animation](https://github.com/silaskhalek/silaskhalek/blob/output/github-contribution-grid-snake.svg)
           
   
           
