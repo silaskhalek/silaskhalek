@@ -1,14 +1,14 @@
 <h1 align="center">Olá, eu sou o Silas Khalek — mas pode me chamar de Turco 🤘</h1>
 
-<p align="center">🧠 Estudante de Big Data | 💻 Apaixonado por Python e Dados | 🥋 Faixa-Azul de Jiu-Jitsu | 🙏 Cristão</p>
+<p align="center">🧠 Estudante de Ciência de Dados | 💻 Obstinado por Evolução Pessoal | 🥋 Faixa-Azul de Jiu-Jitsu | 🙏 Cristão</p>
 
 ---
 
 ### 🚀 Sobre mim
 
 - 👨‍💻 Explorador do mundo da programação e dados.
-- 📊 Atualmente aprendendo **Python, SQL, Power BI** e conceitos de **Big Data** pela **FMU**.
-- ☁️ Interesse crescente por soluções em **nuvem** e **inteligência analítica**.
+- 📊 Atualmente aprendendo **Python, IA, SQL, Power BI** e conceitos de **Big Data** pela **FMU**.
+- ☁️ Estagiário de ciência de dados!
 - 🤝 Aberto a colaborações, freelas e networking!
 
 📫 **Como me encontrar:** [khalek.silas@gmail.com](mailto:khalek.silas@gmail.com)
