@@ -8,8 +8,7 @@
 
 - 👨‍💻 Explorador do mundo da programação e dados.
 - 📊 Atualmente aprendendo **Python, IA, SQL, Power BI** e conceitos de **Big Data** pela **FMU**.
-- ☁️ Estagiário de ciência de dados!
-- 🤝 Aberto a colaborações, freelas e networking!
+- ☁️ Trainee de ciência de dados!
 
 📫 **Como me encontrar:** [khalek.silas@gmail.com](mailto:khalek.silas@gmail.com)
 
