@@ -82,8 +82,8 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 <div align="center">
   
-  ![Snake animation](https://github.com/silaskhalek/silaskhalek/blob/output/github-contribution-grid-snake-dark.svg)
-  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=silaskhalek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
