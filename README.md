@@ -116,7 +116,7 @@ To sempre on pra trocar ideias sobre carreira, tecnologias, bjj ou pela pura e s
 
 <div align="center">
 
-### ✝️ Versículo do dia
+### ✝️ Versículo
 
 > _"Eis-me aqui, envia-me a mim."_ — Isaías 6:8
 
