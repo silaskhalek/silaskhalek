@@ -84,7 +84,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ---
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=silaskhalek&theme=dark&hide_border=true&background=0d1117&stroke=ff6f00&ring=ff6f00&fire=ff6f00&currStreakLabel=ff6f00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
