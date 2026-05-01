@@ -42,29 +42,29 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 **Backend & APIs**
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF6F00)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF6F00)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=FF6F00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 **IA & Machine Learning**
 
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-000000?style=for-the-badge&logo=google-cloud&logoColor=FF6F00)
-![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google&logoColor=FF6F00)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Gemini](https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=8E75B2)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF6F00)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 **Cloud & Data**
 
-![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=google-cloud&logoColor=FF6F00)
-![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=google-cloud&logoColor=FF6F00)
-![Cloud Run](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=google-cloud&logoColor=FF6F00)
-![Cloud Storage](https://img.shields.io/badge/GCS-000000?style=for-the-badge&logo=google-cloud&logoColor=FF6F00)
+![GCP](https://img.shields.io/badge/Google_Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-000000?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Cloud Storage](https://img.shields.io/badge/GCS-000000?style=for-the-badge&logo=googlecloud&logoColor=FBBC04)
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF6F00)
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=FF6F00)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=FF6F00)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 ---
 
@@ -84,16 +84,16 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silaskhalek&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6f00&text_color=ff6f00&icon_color=ff6f00&bg_color=00000000"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaskhalek&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=ff6f00&text_color=ff6f00&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silaskhalek&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff&icon_color=ff6f00"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaskhalek&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=silaskhalek&theme=dark&hide_border=true&background=00000000&stroke=ff6f00&ring=ff6f00&fire=ff6f00&currStreakLabel=ff6f00&sideLabels=ff6f00&currStreakNum=ff6f00&sideNums=ff6f00&dates=ff6f00" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=silaskhalek&theme=dark&hide_border=true&background=0d1117&stroke=ff6f00&ring=ff6f00&fire=ff6f00&currStreakLabel=ff6f00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=silaskhalek&theme=rogue&hide_border=true&area=true&color=ff6f00&point=ff6f00&line=ff6f00&bg_color=00000000" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=silaskhalek&bg_color=0d1117&color=ff6f00&line=ff6f00&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
 <br/>
 
@@ -101,7 +101,13 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=silaskhalek&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=silaskhalek&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+
+---
+
+## 🔥 Estatísticas Adicionais
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=silaskhalek&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff&icon_color=ff6f00" alt="Wakatime Stats"/>
 
 ---
 
@@ -119,4 +125,4 @@ Curte dados, IA ou desenvolvimento backend? Manda uma mensagem no LinkedIn — s
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,18,20,24&height=100&section=footer" width="100%"/>
+<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="100%"/>
