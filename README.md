@@ -82,7 +82,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=silaskhalek&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silaskhalek&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
