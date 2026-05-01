@@ -17,14 +17,19 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor full-stack especializado em **IA Generativa**, **engenharia de dados** e **ciência de dados**. Atualmente mantendo Aurora, um chatbot WhatsApp para o agronegócio que integra Gemini AI, BigQuery, e automação de relatórios.
+Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning**, **ciência de dados** e **engenharia de dados**. Atualmente mantendo Aurora, um chatbot WhatsApp para o agronegócio que integra Gemini AI, BigQuery, e automação de relatórios.
 
 **O que eu faço:**
 - 🤖 Desenvolvimento de aplicações com LLMs (Vertex AI/Gemini)
+- 🧠 Machine Learning e pipelines de ML
 - ☁️ Arquitetura e deploy em Google Cloud Platform
 - 📊 Pipelines de dados e integração BigQuery
 - 🔧 APIs REST com FastAPI e integrações Twilio
 - 📈 Geração automatizada de relatórios (PDFs, visualizações)
+
+**Certificações Google Cloud:**
+- 🏆 **Gen AI Leader** - Google Cloud
+- 🏆 **Professional Data Engineer** - Google Cloud
 
 **Além do código:**
 - 🥋 Faixa-azul de Jiu-Jitsu
@@ -43,6 +48,8 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **engenharia de dad
 ### IA & Machine Learning
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Cloud & Data
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -74,8 +81,9 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **engenharia de dad
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silaskhalek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaskhalek&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  ![Snake animation](https://github.com/silaskhalek/silaskhalek/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 ---
