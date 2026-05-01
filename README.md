@@ -82,7 +82,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silaskhalek&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack+%F0%9F%9A%80;Especialista+em+IA+Generativa+%F0%9F%A4%96;2x+Google+Cloud+Certified+%F0%9F%8F%86;Machine+Learning+Engineer+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 </div>
 
