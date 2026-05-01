@@ -1,6 +1,6 @@
 <h1>Silas Khalek (Turco) 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6F00&width=800&lines=Desenvolvedor+Full-Stack+%F0%9F%9A%80;Especialista+em+IA+Generativa+%F0%9F%A4%96;2x+Google+Cloud+Certified+%F0%9F%8F%86;Machine+Learning+Engineer+%F0%9F%A7%A0;FastAPI+%7C+GCP+%7C+Gemini+AI+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6F00&width=800&lines=Desenvolvedor+Full-Stack+%F0%9F%9A%80;Cientista+de+Dados+Generativa+%F0%9F%A4%96;Especialista+em+IA+Generativa+%F0%9F%A4%96;2x+Google+Cloud+Certified+%F0%9F%8F%86;Machine+Learning+Engineer+%F0%9F%A7%A0;FastAPI+%7C+GCP+%7C+Gemini+AI+%E2%9A%A1)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:khalek.silas@gmail.com">
@@ -17,7 +17,7 @@
 ## 🚀 Sobre mim
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning** e **engenharia de dados**. Atualmente mantendo Aurora, um chatbot WhatsApp para o agronegócio que integra Gemini AI, BigQuery, e automação de relatórios.
+Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning**, **engenharia de dados** e **ciências de dados**. Atualmente mantendo Aurora, um chatbot WhatsApp para o agronegócio que integra Gemini AI, BigQuery, e automação de relatórios.
 
 **O que eu faço:**
 - 🤖 Desenvolvimento de aplicações com LLMs (Vertex AI/Gemini)
