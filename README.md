@@ -83,7 +83,8 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 **Stack:** `FastAPI` • `Gemini AI` • `BigQuery` • `GCS` • `Twilio` • `ReportLab`
 
 ---
-
+<div align="center">
+  
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -101,7 +102,8 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 <img src="https://github-profile-trophy.vercel.app/?username=silaskhalek&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 
 ---
-
+<div align="center">
+  
 ## 💬 Vamos conversar?
 
 Quer trocar uma ideia? Manda uma mensagem lá no LinkedIn — to sempre on pra trocar ideias sobre carreira, tecnologias, bjj ou pela pura e simples resenha.
