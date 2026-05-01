@@ -84,6 +84,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ---
 
+<div align="center">
 ## 📊 GitHub Stats
 
 <div align="center">
