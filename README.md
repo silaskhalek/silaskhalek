@@ -118,4 +118,4 @@ Curte dados, IA ou desenvolvimento backend? Manda uma mensagem no LinkedIn — s
 
 ---
 
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTkxNHBzM2E5YjJpNXYyZXN5bndqb3NlaWxtYmtvM2RiODU4aDB2cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHSkKRvkRvy5chUBBp/giphy.gif" width="100%"/>
