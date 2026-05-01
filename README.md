@@ -112,10 +112,17 @@ Curte dados, IA ou desenvolvimento backend? Manda uma mensagem no LinkedIn — s
 
 ---
 
+<div align="center">
+
 ### ✝️ Versículo do dia
 
 > _"Eis-me aqui, envia-me a mim."_ — Isaías 6:8
 
+</div>
+
 ---
-<img width="533" height="300" alt="9c47e62a18bef1b78794000e5e13a68f" src="https://github.com/user-attachments/assets/ace0afcc-d424-47bb-a9d7-f4448a0dee10" />
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ace0afcc-d424-47bb-a9d7-f4448a0dee10" width="600"/>
+</div>
 
