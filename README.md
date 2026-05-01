@@ -1,7 +1,7 @@
 <h1 align="center">Silas Khalek</h1>
 
 <p align="center">
-Estudante de Ciência de Dados • Trainee em Dados • Jiu-Jitsu Faixa Azul
+Estudante de Ciência de Dados • Trainee em Ciência de Dados • Jiu-Jitsu Faixa Azul
 </p>
 
 ---
