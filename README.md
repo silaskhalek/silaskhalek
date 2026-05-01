@@ -106,7 +106,8 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
   
 ## 💬 Vamos conversar?
 
-Quer trocar uma ideia? Manda uma mensagem lá no LinkedIn — to sempre on pra trocar ideias sobre carreira, tecnologias, bjj ou pela pura e simples resenha.
+Quer trocar uma ideia? Manda uma mensagem lá no LinkedIn! 
+To sempre on pra trocar ideias sobre carreira, tecnologias, bjj ou pela pura e simples resenha.
 
 [![LinkedIn](https://img.shields.io/badge/-Conectar_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6F00)](https://www.linkedin.com/in/silas-abdul-khalek-9b0974172)
 
