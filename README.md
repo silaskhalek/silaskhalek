@@ -15,6 +15,7 @@
 ---
 
 ## 🚀 Sobre mim
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning** e **engenharia de dados**. Atualmente mantendo Aurora, um chatbot WhatsApp para o agronegócio que integra Gemini AI, BigQuery, e automação de relatórios.
 
@@ -39,6 +40,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 ---
 
 ## 🛠️ Stack Tecnológica
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 
 **Backend & APIs**
 
@@ -84,9 +86,6 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silaskhalek&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff&icon_color=ff6f00"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silaskhalek&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=silaskhalek&theme=dark&hide_border=true&background=0d1117&stroke=ff6f00&ring=ff6f00&fire=ff6f00&currStreakLabel=ff6f00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak"/>
@@ -105,15 +104,9 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ---
 
-## 🔥 Estatísticas Adicionais
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=silaskhalek&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6f00&text_color=ffffff&icon_color=ff6f00" alt="Wakatime Stats"/>
-
----
-
 ## 💬 Vamos conversar?
 
-Curte dados, IA ou desenvolvimento backend? Manda uma mensagem no LinkedIn — sempre aberto pra trocar ideias sobre tecnologia e projetos desafiadores.
+Curte dados, IA ou desenvolvimento backend? Manda uma mensagem no LinkedIn — sempre disponível pra trocar ideias sobre tecnologia e projetos desafiadores.
 
 [![LinkedIn](https://img.shields.io/badge/-Conectar_no_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6F00)](https://www.linkedin.com/in/silas-abdul-khalek-9b0974172)
 
