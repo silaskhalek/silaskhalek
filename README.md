@@ -6,7 +6,7 @@
   <a href="mailto:khalek.silas@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF6F00" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/silas-abdul-khalek-9b0974172">
+  <a href="https://www.linkedin.com/in/silas-abdul-khalek-9b0974172"> 
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF6F00" alt="LinkedIn"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=silaskhalek&color=ff6f00&style=for-the-badge&label=VISITAS" alt="Profile views"/>
