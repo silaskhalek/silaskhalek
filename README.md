@@ -70,7 +70,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ---
 
-## 💼 Projeto em Destaque: Aurora
+## 💼 Projeto em Destaque: Aurora 
 
 **🤖 Chatbot WhatsApp com IA para Agronegócio**
 
@@ -78,7 +78,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 - 🔹 Controle de acesso hierárquico (vendedor → supervisor → gerente)
 - 🔹 Geração automatizada de relatórios PDF com ReportLab
 - 🔹 Consultas dinâmicas em BigQuery com validação de segurança
-- 🔹 Deploy serverless no Cloud Run
+- 🔹 Deploy serverless no Cloud Run + Cloud Monitoring
 
 **Stack:** `FastAPI` • `Gemini AI` • `BigQuery` • `GCS` • `Twilio` • `ReportLab`
 
