@@ -103,7 +103,7 @@ Desenvolvedor full-stack especializado em **IA Generativa**, **Machine Learning*
 
 ---
 <div align="center">
-  
+ 
 ## 💬 Vamos conversar?
 
 Quer trocar uma ideia? Manda uma mensagem lá no LinkedIn! 
